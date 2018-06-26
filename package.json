@@ -1,0 +1,31 @@
+{
+  "name": "web3-examples",
+  "version": "1.0.0",
+  "description": "How to use Web3.js with Dapp Univeristy",
+  "main": "app.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dapp_univeristy/web3_examples.git"
+  },
+  "keywords": [
+    "web3.js",
+    "web3",
+    "ethereum"
+  ],
+  "author": "gregory@dappuniversity.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dapp_univeristy/web3_examples/issues"
+  },
+  "homepage": "https://github.com/dapp_univeristy/web3_examples#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.5",
+    "web3": "^1.0.0-beta.34"
+  }
+}
